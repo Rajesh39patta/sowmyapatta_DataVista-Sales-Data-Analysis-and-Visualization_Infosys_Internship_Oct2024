@@ -17,12 +17,12 @@ Offer recommendations to improve promotions, menu design, and staffing.
 # Dataset
 The dataset contains detailed records of pizza sales. Key features include:
 
-## Date: The date of the sale.
-## Time: The time of the sale.
-## Pizza Type: The type of pizza sold.
-## Quantity: Number of pizzas sold in each transaction.
-## Total Sales: Revenue generated from the sale.
-## Price: Unit price of the pizza.
+Date:   The date of the sale.
+Time: The time of the sale.
+Pizza Type: The type of pizza sold.
+Quantity: Number of pizzas sold in each transaction.
+Total Sales: Revenue generated from the sale.
+Price: Unit price of the pizza.
 
 # Steps and Methodology
 ## Data Cleaning:
@@ -40,12 +40,14 @@ Heatmaps for hourly sales patterns.
 Boxplots to detect outliers in sales.
 
 # Tools Used
-Programming Language: Python
-Libraries:
-pandas: For data manipulation.
-matplotlib and seaborn: For data visualization.
-numpy: For numerical analysis.
-Presentation: PowerPoint for sharing insights.
+## Programming Language:
+        Python
+## Libraries:
+  pandas: For data manipulation.
+  matplotlib and seaborn: For data visualization.
+  numpy: For numerical analysis.
+## Presentation: 
+  PowerPoint for sharing insights.
 
 # Key Insights
 ## Peak Sales:
